@@ -8,5 +8,7 @@ Um site de quiz em que o usuário responde a perguntas com quatro opções de re
 ### Quando o usuario abre o site, se encontra com essa tela de start:
 <img src="src/main/webapp/imagens/screenshot1.png">
 
+
+
 ### Ao iniciar o jogo, o site manda um request pro banco de dados que pega uma pergunta de forma aleatoria e a mostra na tela.
 <img src="src/main/webapp/imagens/screenshot2.png">
